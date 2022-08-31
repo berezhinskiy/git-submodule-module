@@ -1,1 +1,5 @@
-# git-submodule-module
+# Git Submodules Module
+
+Example of a module developing separately
+
+Module included to [main repo](https://github.com/berezhinskiy/git-submodule-main) as subfolder
